@@ -1,0 +1,6 @@
+ "dotenv": to hide secret leys and credentials    
+ "express": "^4.18.2",
+ "helmet": Secure express app by setting headers
+    "mongoose":connect and work with database
+    "morgan": "request logger,
+    "nodemon": "^2.0.21"
